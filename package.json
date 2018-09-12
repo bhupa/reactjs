@@ -1,0 +1,14 @@
+{
+  "name": "reactivenative",
+  "version": "1.0.0",
+  "description": "react oractice",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello this works"
+  },
+  "keywords": [
+    "hi"
+  ],
+  "author": "bhupendra",
+  "license": "ISC"
+}
